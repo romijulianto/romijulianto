@@ -9,12 +9,13 @@
 - 📫 How to reach me: Reach out to me directly through my [Instagram](https://www.instagram.com/romijulianto_/) or [Linkedin](https://www.linkedin.com/in/romijulianto)
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: try to be Expert Generalist
+- 
 
 ### This is my little prject i have done
-- [Simple Android Apps: Online Course](https://github.com/romijulianto/educationxyz?main_leads=github)
-- [Server Open Music API: Back End](https://github.com/romijulianto/openMusic_rj?main_leads=github)
-- [Build AI Detected Hands](https://colab.research.google.com/drive/1u8NwVnTC4_CbYKI-E8NbxeXXWvDd9Oku?main_leads=github)
-- [Build webGIS from scratch](https://romijulianto.github.io?main_leads=github)
+- 🎓 [Simple Android Apps: Online Course](https://github.com/romijulianto/educationxyz?main_leads=github)
+- 🎵 [Server Open Music API: Back End](https://github.com/romijulianto/openMusic_rj?main_leads=github)
+- ✋ [Build AI Detected Hands](https://colab.research.google.com/drive/1u8NwVnTC4_CbYKI-E8NbxeXXWvDd9Oku?main_leads=github)
+- 🌐 [Build webGIS from scratch](https://romijulianto.github.io?main_leads=github)
 
 
 ### Github Stats
