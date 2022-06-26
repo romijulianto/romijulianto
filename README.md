@@ -19,10 +19,12 @@
 
 
 ### Github Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romijulianto)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romijulianto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+<a href="https://github.com/romijulianto">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=romijulianto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=romijulianto&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 [linkedin-shield]: https://img.shields.io/badge/-romijulianto-blue?style=flat-square&logo=Linkedin&logoColor=white
