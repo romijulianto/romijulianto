@@ -13,7 +13,7 @@
 ### This is my little prject i have done
 - [Simple Android Apps: Online Course](https://github.com/romijulianto/educationxyz?main_leads=github)
 - [Server Open Music API: Back End](https://github.com/romijulianto/openMusic_rj?main_leads=github)
-- [Build AI Detected Hands](
+- [Build AI Detected Hands](https://colab.research.google.com/drive/1u8NwVnTC4_CbYKI-E8NbxeXXWvDd9Oku?main_leads=github)
 - [Build webGIS from scratch](https://romijulianto.github.io?main_leads=github)
 
 
