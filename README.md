@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 ### Hi there, I'm [Romi Julianto](https://www.linkedin.com/in/romijulianto)! 👋
 
 - 🔭 I’m currently working on GIS or WebGIS Developer at PT. Patra Drilling Contractor
@@ -25,4 +22,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romijulianto)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romijulianto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
