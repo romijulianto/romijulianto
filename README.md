@@ -9,7 +9,6 @@
 - 📫 How to reach me: Reach out to me directly through my [Instagram](https://www.instagram.com/romijulianto_/) or [Linkedin](https://www.linkedin.com/in/romijulianto)
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: try to be Expert Generalist
-- 
 
 ### This is my little prject i have done
 - 🎓 [Simple Android Apps: Online Course](https://github.com/romijulianto/educationxyz?main_leads=github)
