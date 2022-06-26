@@ -1,4 +1,5 @@
 ### Hi there, I'm [Romi Julianto](https://www.linkedin.com/in/romijulianto)! 👋
+[![Linkedin Badge][linkedin-shield]][linkedin-url]
 
 - 🔭 I’m currently working on GIS or WebGIS Developer at PT. Patra Drilling Contractor
 - 🌱 I’m currently learning [Javascript](https://www.dicoding.com/certificates/1OP8LQ86VZQK), [Kotlin](https://www.dicoding.com/certificates/JMZVG9JDJZN9), Android, [Dart](https://www.dicoding.com/certificates/GRX5LKDQYP0M), [Flutter](https://member.jabarcodingcamp.id/sertifikat/generate/26bb4d6a-96f0-4a9b-8bb3-23a1beba5b98), [Machine Learning](https://www.dicoding.com/certificates/N9ZOE5NNDXG5), and IT Support
@@ -22,3 +23,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romijulianto)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romijulianto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[linkedin-shield]: https://img.shields.io/badge/-faniabdullah-blue?style=flat-square&logo=Linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/romijulianto
