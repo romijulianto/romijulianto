@@ -2,7 +2,7 @@
 [![Linkedin Badge][linkedin-shield]][linkedin-url] ![Profile views](https://visitor-badge.glitch.me/badge?page_id=romijulianto.romijulianto)
 
 - 🔭 I’m currently working on GIS or WebGIS Developer at PT. Patra Drilling Contractor
-- 🌱 I’m currently learning [Javascript](https://www.dicoding.com/certificates/1OP8LQ86VZQK), [Kotlin](https://www.dicoding.com/certificates/JMZVG9JDJZN9), Android, [Dart](https://www.dicoding.com/certificates/GRX5LKDQYP0M), [Flutter](https://member.jabarcodingcamp.id/sertifikat/generate/26bb4d6a-96f0-4a9b-8bb3-23a1beba5b98), [Machine Learning](https://www.dicoding.com/certificates/N9ZOE5NNDXG5), and IT Support
+- 🌱 I’m currently learning [Javascript](https://www.dicoding.com/certificates/1OP8LQ86VZQK), [Kotlin](https://www.dicoding.com/certificates/JMZVG9JDJZN9), [Android](https://github.com/romijulianto/educationxyz), [Dart](https://www.dicoding.com/certificates/GRX5LKDQYP0M), [Flutter](https://member.jabarcodingcamp.id/sertifikat/generate/26bb4d6a-96f0-4a9b-8bb3-23a1beba5b98), [Machine Learning](https://www.dicoding.com/certificates/N9ZOE5NNDXG5), and IT Support
 - 🌱 I’m passioante in [Back End](https://www.dicoding.com/certificates/JMZVG2R2NZN9), [Front End](https://www.dicoding.com/certificates/MRZMKY56NPYQ), and also Mobile
 - 👯 I’m looking to collaborate on on  any open source projects related to GIS, JavaScript and Android
 - 🤔 I’m looking for help with building a new skill in programming.
