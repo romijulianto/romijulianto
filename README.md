@@ -1,9 +1,9 @@
 ### Hi there, I'm [Romi Julianto](https://www.linkedin.com/in/romijulianto)! 👋
 [![Linkedin Badge][linkedin-shield]][linkedin-url] ![Profile views](https://visitor-badge.glitch.me/badge?page_id=romijulianto.romijulianto)
-[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&logo=Instagram&style=plastic&logoColor=white)](https://www.instagram.com/romijulianto_)
-[![Facebook](https://img.shields.io/static/v1?label=Facebook&message=%20&logo=Facebook&style=plastic&logoColor=white)](https://web.facebook.com/romijuliantoo?_rdc=1&_rdr)
-[![Linkedin](https://img.shields.io/static/v1?label=Linkedin&message=%20&logo=Linkedin&style=plastic&logoColor=white)](https://www.linkedin.com/in/romijulianto/)
-[![Email](https://img.shields.io/static/v1?label=Email&message=%20&logo=Gmail&style=plastic&logoColor=white)](mailto:romijuulianto@gmail.com)
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&logo=Instagram&style=plastic&logoColor=red)](https://www.instagram.com/romijulianto_)
+[![Facebook](https://img.shields.io/static/v1?label=Facebook&message=%20&logo=Facebook&style=plastic&logoColor=blue)](https://web.facebook.com/romijuliantoo?_rdc=1&_rdr)
+[![Linkedin](https://img.shields.io/static/v1?label=Linkedin&message=%20&logo=Linkedin&style=plastic&logoColor=blue)](https://www.linkedin.com/in/romijulianto/)
+[![Email](https://img.shields.io/static/v1?label=Email&message=%20&logo=Gmail&style=plastic&logoColor=orange)](mailto:romijuulianto@gmail.com)
 
 
 
